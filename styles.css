@@ -1,5 +1,6 @@
 img{
     display: block;
+    margin: 0 auto;
   }
   
   #image{
@@ -10,3 +11,21 @@ img{
   body{
     text-align: center;
   }
+
+  #img-caption {
+    margin: 15px 0 5px 0;
+
+  }
+
+  ul {
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+
+  }
+
+  li {
+    margin: 16px 0;
+
+  }
+    
